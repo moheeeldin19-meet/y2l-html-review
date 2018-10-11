@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	color:white;
+}
+#Title {
+	font-size:50px;
+	position: relative;
+	left: 376px 	;
+}
+#about{
+	font-size: 24pt;
+}
+img {
+	position: relative;
+	left:367px;
+}
